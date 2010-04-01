@@ -1,0 +1,3 @@
+; I use this when testing svn builds of php.
+extension_dir = .
+extension=php_soap.dll

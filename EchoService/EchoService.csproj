@@ -52,6 +52,7 @@
     <Compile Include="EchoService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="php.ini.minimal" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
